@@ -1,0 +1,13 @@
+D:\DesignPatterns\StatergyPattern\StatergyPattern\StatergyPattern\bin\Debug\netcoreapp3.1\StatergyPattern.exe
+D:\DesignPatterns\StatergyPattern\StatergyPattern\StatergyPattern\bin\Debug\netcoreapp3.1\StatergyPattern.deps.json
+D:\DesignPatterns\StatergyPattern\StatergyPattern\StatergyPattern\bin\Debug\netcoreapp3.1\StatergyPattern.runtimeconfig.json
+D:\DesignPatterns\StatergyPattern\StatergyPattern\StatergyPattern\bin\Debug\netcoreapp3.1\StatergyPattern.runtimeconfig.dev.json
+D:\DesignPatterns\StatergyPattern\StatergyPattern\StatergyPattern\bin\Debug\netcoreapp3.1\StatergyPattern.dll
+D:\DesignPatterns\StatergyPattern\StatergyPattern\StatergyPattern\bin\Debug\netcoreapp3.1\StatergyPattern.pdb
+D:\DesignPatterns\StatergyPattern\StatergyPattern\StatergyPattern\obj\Debug\netcoreapp3.1\StatergyPattern.csprojAssemblyReference.cache
+D:\DesignPatterns\StatergyPattern\StatergyPattern\StatergyPattern\obj\Debug\netcoreapp3.1\StatergyPattern.AssemblyInfoInputs.cache
+D:\DesignPatterns\StatergyPattern\StatergyPattern\StatergyPattern\obj\Debug\netcoreapp3.1\StatergyPattern.AssemblyInfo.cs
+D:\DesignPatterns\StatergyPattern\StatergyPattern\StatergyPattern\obj\Debug\netcoreapp3.1\StatergyPattern.csproj.CoreCompileInputs.cache
+D:\DesignPatterns\StatergyPattern\StatergyPattern\StatergyPattern\obj\Debug\netcoreapp3.1\StatergyPattern.dll
+D:\DesignPatterns\StatergyPattern\StatergyPattern\StatergyPattern\obj\Debug\netcoreapp3.1\StatergyPattern.pdb
+D:\DesignPatterns\StatergyPattern\StatergyPattern\StatergyPattern\obj\Debug\netcoreapp3.1\StatergyPattern.genruntimeconfig.cache
